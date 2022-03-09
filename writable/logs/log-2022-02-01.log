@@ -1,0 +1,100 @@
+CRITICAL - 2022-02-01 21:56:04 --> syntax error, unexpected '{', expecting '('
+#0 D:\codeigniter4-CodeIgniter4-70d881c\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\codeigniter4-CodeIgniter4-70d881c\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 D:\codeigniter4-CodeIgniter4-70d881c\app\Controllers\Home.php(9): view('login')
+#3 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('D:\\codeigniter4...')
+#8 {main}
+CRITICAL - 2022-02-01 21:57:04 --> syntax error, unexpected '{', expecting '('
+#0 D:\codeigniter4-CodeIgniter4-70d881c\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\codeigniter4-CodeIgniter4-70d881c\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 D:\codeigniter4-CodeIgniter4-70d881c\app\Controllers\Home.php(9): view('login')
+#3 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('D:\\codeigniter4...')
+#8 {main}
+CRITICAL - 2022-02-01 21:58:45 --> syntax error, unexpected '{', expecting '('
+#0 D:\codeigniter4-CodeIgniter4-70d881c\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\codeigniter4-CodeIgniter4-70d881c\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 D:\codeigniter4-CodeIgniter4-70d881c\app\Controllers\Home.php(9): view('login')
+#3 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('D:\\codeigniter4...')
+#8 {main}
+CRITICAL - 2022-02-01 21:59:02 --> syntax error, unexpected '{', expecting '('
+#0 D:\codeigniter4-CodeIgniter4-70d881c\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\codeigniter4-CodeIgniter4-70d881c\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 D:\codeigniter4-CodeIgniter4-70d881c\app\Controllers\Home.php(9): view('login')
+#3 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('D:\\codeigniter4...')
+#8 {main}
+CRITICAL - 2022-02-01 22:00:45 --> syntax error, unexpected '{', expecting '('
+#0 D:\codeigniter4-CodeIgniter4-70d881c\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\codeigniter4-CodeIgniter4-70d881c\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 D:\codeigniter4-CodeIgniter4-70d881c\app\Controllers\Home.php(9): view('login')
+#3 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('D:\\codeigniter4...')
+#8 {main}
+CRITICAL - 2022-02-01 22:03:17 --> syntax error, unexpected '{', expecting '('
+#0 D:\codeigniter4-CodeIgniter4-70d881c\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\codeigniter4-CodeIgniter4-70d881c\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 D:\codeigniter4-CodeIgniter4-70d881c\app\Controllers\Home.php(9): view('login')
+#3 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('D:\\codeigniter4...')
+#8 {main}
+CRITICAL - 2022-02-01 22:05:46 --> syntax error, unexpected '{', expecting '('
+#0 D:\codeigniter4-CodeIgniter4-70d881c\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\codeigniter4-CodeIgniter4-70d881c\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 D:\codeigniter4-CodeIgniter4-70d881c\app\Controllers\Home.php(9): view('login')
+#3 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('D:\\codeigniter4...')
+#8 {main}
+CRITICAL - 2022-02-01 22:06:06 --> syntax error, unexpected '{', expecting '('
+#0 D:\codeigniter4-CodeIgniter4-70d881c\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\codeigniter4-CodeIgniter4-70d881c\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 D:\codeigniter4-CodeIgniter4-70d881c\app\Controllers\Home.php(9): view('login')
+#3 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('D:\\codeigniter4...')
+#8 {main}
+CRITICAL - 2022-02-01 22:06:57 --> syntax error, unexpected '<', expecting end of file
+#0 D:\codeigniter4-CodeIgniter4-70d881c\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\codeigniter4-CodeIgniter4-70d881c\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 D:\codeigniter4-CodeIgniter4-70d881c\app\Controllers\Home.php(9): view('login')
+#3 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('D:\\codeigniter4...')
+#8 {main}
+CRITICAL - 2022-02-01 22:09:35 --> syntax error, unexpected '<', expecting end of file
+#0 D:\codeigniter4-CodeIgniter4-70d881c\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\codeigniter4-CodeIgniter4-70d881c\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 D:\codeigniter4-CodeIgniter4-70d881c\app\Controllers\Home.php(9): view('login')
+#3 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 D:\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('D:\\codeigniter4...')
+#8 {main}
